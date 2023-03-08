@@ -1,0 +1,12 @@
+C:\Users\Mohab\source\repos\Bookfiy\Bookfiy.core\bin\Debug\net6.0\Bookfiy.Core.deps.json
+C:\Users\Mohab\source\repos\Bookfiy\Bookfiy.core\bin\Debug\net6.0\Bookfiy.Core.dll
+C:\Users\Mohab\source\repos\Bookfiy\Bookfiy.core\bin\Debug\net6.0\ref\Bookfiy.Core.dll
+C:\Users\Mohab\source\repos\Bookfiy\Bookfiy.core\bin\Debug\net6.0\Bookfiy.Core.pdb
+C:\Users\Mohab\source\repos\Bookfiy\Bookfiy.core\obj\Debug\net6.0\Bookfiy.Core.csproj.AssemblyReference.cache
+C:\Users\Mohab\source\repos\Bookfiy\Bookfiy.core\obj\Debug\net6.0\Bookfiy.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohab\source\repos\Bookfiy\Bookfiy.core\obj\Debug\net6.0\Bookfiy.Core.AssemblyInfoInputs.cache
+C:\Users\Mohab\source\repos\Bookfiy\Bookfiy.core\obj\Debug\net6.0\Bookfiy.Core.AssemblyInfo.cs
+C:\Users\Mohab\source\repos\Bookfiy\Bookfiy.core\obj\Debug\net6.0\Bookfiy.Core.csproj.CoreCompileInputs.cache
+C:\Users\Mohab\source\repos\Bookfiy\Bookfiy.core\obj\Debug\net6.0\Bookfiy.Core.dll
+C:\Users\Mohab\source\repos\Bookfiy\Bookfiy.core\obj\Debug\net6.0\ref\Bookfiy.Core.dll
+C:\Users\Mohab\source\repos\Bookfiy\Bookfiy.core\obj\Debug\net6.0\Bookfiy.Core.pdb

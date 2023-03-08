@@ -1,0 +1,17 @@
+C:\Users\Mohab\source\repos\Bookfiy\Bookfiy.EF\bin\Debug\net6.0\Bookfiy.EF.deps.json
+C:\Users\Mohab\source\repos\Bookfiy\Bookfiy.EF\bin\Debug\net6.0\Bookfiy.EF.runtimeconfig.json
+C:\Users\Mohab\source\repos\Bookfiy\Bookfiy.EF\bin\Debug\net6.0\Bookfiy.EF.dll
+C:\Users\Mohab\source\repos\Bookfiy\Bookfiy.EF\bin\Debug\net6.0\ref\Bookfiy.EF.dll
+C:\Users\Mohab\source\repos\Bookfiy\Bookfiy.EF\bin\Debug\net6.0\Bookfiy.EF.pdb
+C:\Users\Mohab\source\repos\Bookfiy\Bookfiy.EF\obj\Debug\net6.0\Bookfiy.EF.csproj.AssemblyReference.cache
+C:\Users\Mohab\source\repos\Bookfiy\Bookfiy.EF\obj\Debug\net6.0\Bookfiy.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohab\source\repos\Bookfiy\Bookfiy.EF\obj\Debug\net6.0\Bookfiy.EF.AssemblyInfoInputs.cache
+C:\Users\Mohab\source\repos\Bookfiy\Bookfiy.EF\obj\Debug\net6.0\Bookfiy.EF.AssemblyInfo.cs
+C:\Users\Mohab\source\repos\Bookfiy\Bookfiy.EF\obj\Debug\net6.0\Bookfiy.EF.csproj.CoreCompileInputs.cache
+C:\Users\Mohab\source\repos\Bookfiy\Bookfiy.EF\obj\Debug\net6.0\Bookfiy.EF.dll
+C:\Users\Mohab\source\repos\Bookfiy\Bookfiy.EF\obj\Debug\net6.0\ref\Bookfiy.EF.dll
+C:\Users\Mohab\source\repos\Bookfiy\Bookfiy.EF\obj\Debug\net6.0\Bookfiy.EF.pdb
+C:\Users\Mohab\source\repos\Bookfiy\Bookfiy.EF\obj\Debug\net6.0\Bookfiy.EF.genruntimeconfig.cache
+C:\Users\Mohab\source\repos\Bookfiy\Bookfiy.EF\bin\Debug\net6.0\Bookfiy.Core.dll
+C:\Users\Mohab\source\repos\Bookfiy\Bookfiy.EF\bin\Debug\net6.0\Bookfiy.Core.pdb
+C:\Users\Mohab\source\repos\Bookfiy\Bookfiy.EF\obj\Debug\net6.0\Bookfiy.EF.csproj.CopyComplete
